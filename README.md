@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ifeanyi Elvis Okeke, go by the username @elvidev
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+%26+Cloud+Engineer;⚡+building+modern+web+applications;focusing+on+user+experience+and+scalability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+%26+Cloud+Engineer;⚡+building+modern+web+applications;focusing+on+user+experience+and+scalability" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Using a smiling emoji as profile picture -->
-  <div style="font-size: 200px; line-height: 1; border-radius: 50%; border: 4px solid #F75C7E; width: 200px; height: 200px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">😊</div>
+  <!-- Professional avatar placeholder -->
+  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face&auto=format&q=80" width="200" height="200" style="border-radius: 50%; border: 4px solid #0098d4ff;" alt="Profile Picture"/>
 </div>
 
 <h3 align="center">🔥 Dedicated and efficient Frontend Developer & Cloud Engineer with experience in modern web technologies, cloud infrastructure, and user interface design</h3>
@@ -20,7 +20,7 @@
 ## 🎨 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvidev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvidev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elvi.heart)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvidev@gmail.com)
 
-**Profile views:** ![](https://komarev.com/ghpvc/?username=elvidev&color=F75C7E&style=flat-square)
+**Profile views:** ![](https://komarev.com/ghpvc/?username=elvidev&color=00D4AA&style=flat-square)
 
 </div>
 
@@ -137,11 +137,11 @@
 <!-- ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvidev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elvidev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elvidev&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elvidev&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
