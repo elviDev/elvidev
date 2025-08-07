@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-  <!-- Professional avatar placeholder -->
-  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face&auto=format&q=80" width="200" height="200" style="border-radius: 50%; border: 4px solid #0098d4ff;" alt="Profile Picture"/>
+  <!-- 3D Developer Avatar -->
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/male-developer-5187206-4320219.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0378bbff;" alt="3D Developer Avatar"/>
 </div>
 
 <h3 align="center">🔥 Dedicated and efficient Frontend Developer & Cloud Engineer with experience in modern web technologies, cloud infrastructure, and user interface design</h3>
