@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-  <!-- Profile image will auto-load from GitHub -->
-  <img src="https://avatars.githubusercontent.com/u/elvidev?v=4" width="200" height="200" style="border-radius: 50%; border: 4px solid #F75C7E;" alt="Profile Picture"/>
+  <!-- Using a smiling emoji as profile picture -->
+  <div style="font-size: 200px; line-height: 1; border-radius: 50%; border: 4px solid #F75C7E; width: 200px; height: 200px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">😊</div>
 </div>
 
 <h3 align="center">🔥 Dedicated and efficient Frontend Developer & Cloud Engineer with experience in modern web technologies, cloud infrastructure, and user interface design</h3>
@@ -34,7 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,12 +77,11 @@
 
 <div align="center">
   
-**React** | **Flutter** | **TypeScript** | **JavaScript**
+**React** | **TypeScript** | **JavaScript**
 
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -136,7 +134,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elvidev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" />
@@ -152,7 +150,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elvidev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
