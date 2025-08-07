@@ -8,7 +8,7 @@
 
 <div align="center">
   <!-- 3D Developer Avatar -->
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" height="200" style="border-radius: 50%; border: 4px solid #0378bbff;" alt="3D Developer Avatar"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0378bbff;" alt="3D Developer Avatar"/>
 </div>
 
 <h3 align="center">🔥 Dedicated and efficient Frontend Developer & Cloud Engineer with experience in modern web technologies, cloud infrastructure, and user interface design</h3>
