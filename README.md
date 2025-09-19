@@ -1,4 +1,4 @@
-# 👋 Hello World! I am Elvis and i love dancing to Afrobeats 🕺🏾😊
+# 👋 Hello World! I am Elvis 🕺🏾😊
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+%26+Cloud+Engineer;⚡+building+modern+web+applications;focusing+on+user+experience+and+scalability" alt="Typing SVG" />
