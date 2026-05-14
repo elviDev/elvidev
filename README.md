@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0378bbff;" alt="3D Developer Avatar"/>
 </div>
 
-<h3 align="center">🔥 Dedicated and efficient Full-Stack Engineer & Cloud Engineer with experience in modern web technologies, cloud infrastructure, and user interface design</h3>
+<h3 align="center">🔥 Dedicated and efficient Full-Stack Engineer & Cloud Engineer with experience in building modern web technologies, cloud infrastructure, and user interface design</h3>
 
 <br/>
 
