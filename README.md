@@ -1,7 +1,7 @@
 # 👋 Hello World! I am Elvis 🕺🏾😊
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=A+Frontend+Developer+%26+Cloud+Engineer;⚡+building+modern+web+applications;focusing+on+user+experience+and+scalability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=A+Full-Stack+Engineer+%26+Cloud+Engineer;⚡+building+modern+web+applications;focusing+on+user+experience+and+scalability" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0378bbff;" alt="3D Developer Avatar"/>
 </div>
 
-<h3 align="center">🔥 Dedicated and efficient Frontend Developer & Cloud Engineer with experience in modern web technologies, cloud infrastructure, and user interface design</h3>
+<h3 align="center">🔥 Dedicated and efficient Full-Stack Engineer & Cloud Engineer with experience in modern web technologies, cloud infrastructure, and user interface design</h3>
 
 <br/>
 
