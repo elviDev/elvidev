@@ -1,168 +1,59 @@
-# 👋 Hello World! I am Elvis 🕺🏾😊
+<h1 align="center">Hi, I'm Elvis 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=A+Full-Stack+Engineer+%26+Cloud+Engineer;⚡+building+modern+web+applications;focusing+on+user+experience+and+scalability" alt="Typing SVG" />
-</div>
+<p align="center">
+Cloud-trained engineer based in Barcelona, currently looking for my next role as a developer.
+</p>
 
-<br/>
+<p align="center">
+I like building things end to end, from the UI down to the database, and I'm always picking up new tools along the way.
+</p>
 
-<div align="center">
-  <!-- 3D Developer Avatar -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0378bbff;" alt="3D Developer Avatar"/>
-</div>
+<br>
 
-<h3 align="center">🔥 Dedicated and efficient Software Engineer & Cloud Engineer with experience in building modern web technologies, cloud infrastructure, and user interface design</h3>
+## 🧰 Tech I work with
 
-<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
+<br>
 
-## 🎨 Most Used Languages
+## 📊 GitHub stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvidev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Top Languages" />
-</div>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elviDev&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviDev&layout=compact&hide_border=true" />
+</p>
 
-<br/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elviDev&hide_border=true" />
+</p>
 
-<div align="center">
-  
-### Programming Languages & Technologies
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🚀 What I'm doing
 
-</div>
+- Building side projects to sharpen my front end and back end skills
+- Open to junior / mid-level developer roles
+- Learning something new most weeks, usually the hard way
 
----
+<br>
 
-## 🤝 Connect with me
+## 📫 Let's connect
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/ifeanyi-elvis-okeke-051213bb/es?trk=public_post_feed-actor-name)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elvi.heart)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvidev@gmail.com)
+<p align="left">
+  <a href="https://github.com/elviDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-**Profile views:** ![](https://komarev.com/ghpvc/?username=elvidev&color=00D4AA&style=flat-square)
-
-</div>
-
----
-
-## 🔥 Development Fields
-
-<div align="center">
-
-💖 **I'm looking to collaborate on frontend projects and cloud infrastructure solutions...**
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🎨 Frontend Development
-
-<div align="center">
-  
-**React** | **Flutter** | **TypeScript** | **JavaScript**
-
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-</td>
-<td align="center" width="50%">
-
-### ☁️ Cloud Engineering & DevOps
-
-<div align="center">
-
-**AWS** | **Linux** | **Git** | **Python**
-
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="100%">
-
-### 🎨 Design Tools
-
-<div align="center">
-
-**Figma** | **Adobe XD**
-
-<br/>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvidev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elvidev&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elvidev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div> -->
-
----
-
-<div align="center">
-  
-### 💬 Ask me about Frontend Development, Cloud Engineering, or UI/UX Design!
-
-**"The best code is no code at all. The second best is code that is simple, readable, and easy to understand."** – Jeff Atwood
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<!--
+Swap in your LinkedIn, email, or portfolio link above using the same badge style, e.g.:
+<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+-->
