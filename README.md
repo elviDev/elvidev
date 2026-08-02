@@ -11,7 +11,7 @@
 
 - 🔭 Building side projects to sharpen my front-end and back-end skills
 - 🌱 Learning something new most weeks, usually the hard way
-- 👀 Open to Python Developer / junior DevOps Engineer roles
+- 👀 Open to Software Engineer / junior DevOps Engineer roles
 - 💬 Ask me about Python, FastAPI, or automation scripts
 
 ---
