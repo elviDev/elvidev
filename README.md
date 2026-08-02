@@ -1,16 +1,22 @@
-<h1 align="center">Hi, I'm Ifeanyi 👋</h1>
+<h1 align="center">Hi 👋, I'm Ifeanyi Elvis</h1>
+<h3 align="center">Cloud-trained engineer based in Barcelona, building my way into a developer role</h3>
 
 <p align="center">
-Cloud-trained engineer based in Barcelona, currently looking for my next role as a developer.
+  I like building things end to end — from the UI down to the database — and I'm always picking up new tools along the way.
 </p>
 
-<p align="center">
-I like building things end to end, from the UI down to the database, and I'm always picking up new tools along the way.
-</p>
+---
 
-<br>
+### 🚀 What I'm doing
 
-## 🧰 Tech I work with
+- 🔭 Building side projects to sharpen my front-end and back-end skills
+- 🌱 Learning something new most weeks, usually the hard way
+- 👀 Open to junior / mid-level developer roles
+- 💬 Ask me about Python, FastAPI, or automation scripts
+
+---
+
+### 🛠️ Tech I work with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,42 +25,40 @@ I like building things end to end, from the UI down to the database, and I'm alw
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br>
+---
 
-## 📊 GitHub stats
+### 📌 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elviDev&hide_border=true" />
+- **[FastAPI User CRUD](https://github.com/elviDev/fastapi-user-crud)** — A REST API built with FastAPI for managing users, with full create/read/update/delete/search support.
+- **[Currency Converter CLI](https://github.com/elviDev/currency-converter-cli)** — A command-line tool that fetches live exchange rates and converts between 20 major world currencies.
+- **[Python Automation Scripts](https://github.com/elviDev/python-automation-scripts)** — A collection of automation tools, including a YouTube downloader and a scheduled folder backup script.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elviDev&show_icons=true&theme=radical&cache_seconds=1800" alt="Elvis's GitHub Stats" />
 </p>
 
-<br>
-
-## 🚀 What I'm doing
-
-- Building side projects to sharpen my front end and back end skills
-- Open to junior / mid-level developer roles
-- Learning something new most weeks, usually the hard way
-
-<br>
-
-## 📫 Let's connect
-
-<p align="left">
-  <a href="https://github.com/elviDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ifeanyi-elvis-okeke-051213bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:elvidiho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elviDev&theme=radical&cache_seconds=1800" alt="Elvis's GitHub Streak" />
 </p>
 
-<!--
-Swap in your LinkedIn, email, or portfolio link above using the same badge style, e.g.:
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
--->
+---
+
+### 📫 Reach me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ifeanyi-elvis-okeke-051213bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
