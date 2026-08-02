@@ -2,7 +2,7 @@
 <h3 align="center">Cloud-trained engineer based in Barcelona, building my way into a developer role</h3>
 
 <p align="center">
-  I like building things end to end — from the UI down to the database — and I'm always picking up new tools along the way.
+  I like building things end to end, from the UI down to the database and I'm always picking up new tools along the way.
 </p>
 
 ---
