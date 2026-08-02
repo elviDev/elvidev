@@ -46,15 +46,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elviDev&show_icons=true&theme=radical&cache_seconds=1800&v=2" alt="Elvis's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elviDev&theme=radical&cache_seconds=1800&v=2" alt="Elvis's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elviDev&theme=redical&cache_seconds=1800&v=2" alt="Elvis's Contribution Graph" width="100%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=elviDev&theme=github-light&cache_seconds=1800&v=3" alt="Elvis's Contribution Graph" width="100%" />
 </p>
 
 ---
