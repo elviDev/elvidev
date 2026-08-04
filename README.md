@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Elvis</h1>
-<h3 align="center">Cloud-trained engineer based in Barcelona, building my way into a developer role</h3>
+<h3 align="center"> Application Engineer & Cloud-trained Support Specialist based in Barcelona</h3>
 <p align="center">
-  I like building things end to end, from the UI down to the database and I'm always picking up new tools along the way.
+  I build and support production-grade web and mobile applications. Previously at ProvidusBank, where I shipped payment platforms handling millions of transactions. Now focused on cloud engineering, DevOps, and application support — working toward roles in cloud infrastructure and technical operations.
 </p>
 
 ---
@@ -43,6 +43,8 @@ Working through [Python for DevOps](https://github.com/elviDev/python-for-devops
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
