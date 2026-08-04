@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Elvis</h1>
 <h3 align="center"> Application Engineer & Cloud-trained Support Specialist based in Barcelona</h3>
 <p align="center">
-  I build and support production-grade web and mobile applications. Previously at ProvidusBank, where I shipped payment platforms handling millions of transactions. Now focused on cloud engineering, DevOps, and application support — working toward roles in cloud infrastructure and technical operations.
+  I build and support production-grade web and mobile applications. Previously at ProvidusBank, where I shipped payment platforms handling millions of transactions. Now focused on cloud engineering, DevOps, and application support. I am working toward roles in cloud infrastructure and technical operations.
 </p>
 
 ---
