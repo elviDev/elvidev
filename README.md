@@ -59,9 +59,9 @@ Working through [Python for DevOps](https://github.com/elviDev/python-for-devops
 📊 GitHub Activity
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/elviDev/elviDev/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=elviDev&theme=xcode&hide_border=true&radius=16"
     width="100%"
+    alt="Contribution Graph"
   />
 </p>
 
