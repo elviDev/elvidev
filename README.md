@@ -21,7 +21,7 @@ Working through [Python for DevOps](https://github.com/elviDev/python-for-devops
 - [x] 02 - APIs and JSON
 - [x] 03 - File Handling and Logs
 - [x] 04 - Object-Oriented Python
-- [ ] 05 - CLI Tools (argparse)
+- [x] 05 - CLI Tools (argparse)
 - [ ] 06 - AWS Automation (boto3)
 - [ ] 07 - APIs with FastAPI
 - [ ] 08 - AI Agents for DevOps
