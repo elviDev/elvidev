@@ -8,7 +8,7 @@ Application Engineer | Python & FastAPI | Cloud & AI Engineering
   I build production-focused web applications, APIs, and automation tools.
   Previously at ProvidusBank, where I worked across application development,
   API integration, UI development, and technical support in a financial technology environment.
-  Currently focused on Python, FastAPI, cloud engineering, DevOps, and AI-powered applications.
+  Currently focused on Python, cloud engineering, DevOps, and AI-powered applications.
 </p>
 
 ---
@@ -27,7 +27,6 @@ Application Engineer | Python & FastAPI | Cloud & AI Engineering
 ## 🧠 Featured Project
 
 ### AI Document Intelligence API
-
 <a href="https://github.com/elviDev/ai-document-intelligence">
   <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -50,7 +49,7 @@ A backend service for intelligent document processing and semantic search.
 **Tech stack:**
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pgvector`
-`Sentence Transformers` `Docker` `pytest`
+`Sentence Transformers` `Docker` `pytest` `SHELL`
 
 ---
 
@@ -103,6 +102,8 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 </p>
 
