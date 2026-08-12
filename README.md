@@ -5,51 +5,59 @@ Application Engineer | Python & FastAPI | Cloud & AI Engineering
 </h3>
 
 <p align="center">
-  I build production-focused web applications, APIs, and automation tools.
-  Previously at ProvidusBank, where I worked across application development,
-  API integration, UI development, and technical support in a financial technology environment.
-  Currently focused on Python, cloud engineering, DevOps, and AI-powered applications.
+  I build production-focused web applications, APIs, automation tools, and AI-powered backend systems.
+  Previously at ProvidusBank, where I worked across application development, API integration,
+  UI development, production support, and technical troubleshooting in a financial technology environment.
+  Currently focused on Python, cloud engineering, DevOps, and AI engineering.
 </p>
 
 ---
 
 ## 🚀 What I'm Building
 
-- 🔭 Building AI-powered backend applications with Python and FastAPI
-- 🧠 Working with semantic search, embeddings, and vector databases
+- 🤖 Building AI-powered backend applications with Python, FastAPI, embeddings, vector databases, and RAG
+- 🧠 Working with semantic search, Sentence Transformers, pgvector, and LLM-powered document systems
 - ☁️ Developing cloud and DevOps skills with AWS, Docker, Linux, and automation
-- 🛠️ Building production-style APIs with PostgreSQL, SQLAlchemy, and automated tests
+- 🛠️ Building production-style APIs with PostgreSQL, SQLAlchemy, REST APIs, and automated testing
+- 🧪 Writing and maintaining automated tests with pytest
 - 👀 Open to Software Engineer, Application Engineer, Junior DevOps, Cloud Engineer, and Technical Support roles
-- 💬 Ask me about Python, FastAPI, REST APIs, Docker, PostgreSQL, or automation
+- 💬 Ask me about Python, FastAPI, REST APIs, PostgreSQL, Docker, semantic search, or automation
 
 ---
 
 ## 🧠 Featured Project
 
 ### AI Document Intelligence API
+
 <a href="https://github.com/elviDev/ai-document-intelligence">
   <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-A backend service for intelligent document processing and semantic search.
+AI-powered document processing and retrieval API built with FastAPI, PostgreSQL, pgvector, Sentence Transformers, and OpenAI.
 
-**Current capabilities:**
+The system processes PDF and DOCX documents, extracts and chunks text, generates semantic embeddings, stores vectors in PostgreSQL, performs semantic retrieval, and uses Retrieval-Augmented Generation (RAG) to answer questions using relevant document context.
 
-- 📄 PDF and DOCX document upload
+**Built features:**
+
+- 📄 PDF and DOCX document ingestion
 - 🔍 Text extraction and processing
-- ✂️ Automatic document chunking
-- 🧠 Semantic embeddings using Sentence Transformers
+- ✂️ Overlapping document chunking
+- 🧠 384-dimensional semantic embeddings
 - 🗄️ PostgreSQL document storage
-- 🔢 pgvector for vector storage
+- 🔢 pgvector vector storage
 - 🔎 Semantic similarity search
+- 📊 Similarity scoring
+- 🤖 OpenAI-powered question answering
+- 🧩 RAG retrieval and context construction
+- 📚 Source-aware answers
 - 🚀 FastAPI REST API
 - 🐳 Dockerized PostgreSQL development environment
-- 🧪 Automated testing with pytest
+- 🧪 25 automated pytest tests
 
 **Tech stack:**
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pgvector`
-`Sentence Transformers` `Docker` `pytest` `SHELL`
+`Sentence Transformers` `OpenAI` `Docker` `pytest` `Bash`
 
 ---
 
@@ -61,14 +69,14 @@ Working through
 [Python for DevOps](https://github.com/elviDev/python-for-devops)
 with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 
-- [x] 01 - Python Foundations
-- [x] 02 - APIs and JSON
-- [x] 03 - File Handling and Logs
-- [x] 04 - Object-Oriented Python
-- [x] 05 - CLI Tools (argparse)
-- [ ] 06 - AWS Automation (boto3)
-- [x] 07 - APIs with FastAPI
-- [x] 08 - AI Agents for DevOps
+- [x] Python Foundations
+- [x] APIs and JSON
+- [x] File Handling and Logs
+- [x] Object-Oriented Python
+- [x] CLI Tools (argparse)
+- [ ] AWS Automation (boto3)
+- [x] APIs with FastAPI
+- [x] AI Agents for DevOps
 - [ ] Capstone
 
 ---
@@ -87,6 +95,10 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Sentence%20Transformers-000000?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -99,11 +111,11 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 </p>
 
@@ -111,27 +123,30 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 
 ## 📌 Other Projects
 
-- **[FastAPI User CRUD](https://github.com/elviDev/fastapi-user-crud)**  
-  REST API built with FastAPI for managing users with CRUD and search functionality.
+### [FastAPI User CRUD](https://github.com/elviDev/fastapi-user-crud)
 
-- **[Currency Converter CLI](https://github.com/elviDev/currency-converter-cli)**  
-  Command-line application for retrieving exchange rates and converting currencies.
+REST API built with FastAPI for managing users with CRUD and search functionality.
 
-- **[Python Automation Scripts](https://github.com/elviDev/python-automation-scripts)**  
-  Collection of Python automation tools for practical system and file-management tasks.
+### [Currency Converter CLI](https://github.com/elviDev/currency-converter-cli)
+
+Command-line application for retrieving exchange rates and converting currencies.
+
+### [Python Automation Scripts](https://github.com/elviDev/python-automation-scripts)
+
+Collection of Python automation tools for practical system and file-management tasks.
 
 ---
 
 ## 💼 Professional Background
 
-Previously an Application Engineer / UI Developer at ProvidusBank, working on:
+Previously an Application Engineer / UI Developer at ProvidusBank, working across:
 
 - Financial technology applications
 - REST API integrations
-- Mobile and web applications
+- Web and mobile applications
 - Payment platforms
 - UI/UX optimisation
-- Technical troubleshooting
+- Production troubleshooting and incident resolution
 - Cross-functional product delivery
 
 ---
@@ -151,11 +166,13 @@ Previously an Application Engineer / UI Developer at ProvidusBank, working on:
 ## 📫 Reach Me
 
 <p align="left">
-  <a href="mailto:elvidiho@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/ifeanyi-elvis-okeke-051213bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:elvidiho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ifeanyi-elvis-okeke-051213bb">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
